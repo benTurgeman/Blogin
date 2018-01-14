@@ -1,10 +1,10 @@
-@import '_nav.css';
-@import '_base.css';
-@import '_utilites.css';
-@import '_articles.css';
-@import '_footer.css';
-@import '_layout.css';
-@import '_hamburger-nav.css';
+@import 'nav.css';
+@import 'base.css';
+@import 'utilites.css';
+@import 'articles.css';
+@import 'footer.css';
+@import 'layout.css';
+@import 'hamburger-nav.css';
 
 :root{
         --main-font: 'Lato', sans-serif;;
