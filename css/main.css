@@ -1,0 +1,28 @@
+@import '_nav.css';
+@import '_base.css';
+@import '_utilites.css';
+@import '_articles.css';
+@import '_footer.css';
+@import '_layout.css';
+@import '_hamburger-nav.css';
+
+:root{
+        --main-font: 'Lato', sans-serif;;
+        --main-font-size: 15px;
+        --text-color: #606060;
+        --main-max-width: 980px;
+        --main-border-color: #e1e0e0;
+
+        --logo-font: "eurofurence  regular";
+        --logo-font-size: 40px;
+
+        
+        --nav-hover-color: #58c93a;
+        --nav-text-color: white;
+        --nav-border-color: #1d1d1d;
+
+        --article-header-color: #4f4e4e;
+
+        
+}
+
